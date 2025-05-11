@@ -20,8 +20,8 @@ Before diving into the "how," let’s explore the "why." Contributing to open so
 
 Finding the right project is crucial. Look for projects that align with your interests, skill level, and goals. Here’s how to find them:
 
-*   Explore GitHub: Use [GitHub’s Explore page](https://github.com/explore) or search for topics like "good-first-issue" or "help-wanted."
-*   Check Open Source Programs: Programs like [Google Summer of Code](https://summerofcode.withgoogle.com) or [Hacktoberfest](https://hacktoberfest.com) are great for beginners.
+*   Explore Bitcoin Dev Project: See [The Bitcoin Dev Project](https://bitcoindevs.xyz) or go to the ["good-first-issues"](https://bitcoindevs.xyz/good-first-issues) page.
+*   Check Open Source Programs: Programs like [Summer of Bitcoin](https://www.summerofbitcoin.org/) or [Google Summer of Code](https://summerofcode.withgoogle.com) are great for beginners.
 *   Follow Your Tools: Contribute to libraries, frameworks, or tools you already use.
 
 ### 2. Understand the Project
