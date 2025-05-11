@@ -20,8 +20,8 @@ Before diving into the "how," let’s explore the "why." Contributing to open so
 
 Finding the right project is crucial. Look for projects that align with your interests, skill level, and goals. Here’s how to find them:
 
-*   Explore GitHub: Use GitHub’s Explore page or search for topics like "good-first-issue" or "help-wanted."
-*   Check Open Source Programs: Programs like Google Summer of Code or Hacktoberfest are great for beginners.
+*   Explore GitHub: Use [GitHub’s Explore page](https://github.com/explore) or search for topics like "good-first-issue" or "help-wanted."
+*   Check Open Source Programs: Programs like [Google Summer of Code](https://summerofcode.withgoogle.com) or [Hacktoberfest](https://hacktoberfest.com) are great for beginners.
 *   Follow Your Tools: Contribute to libraries, frameworks, or tools you already use.
 
 ### 2. Understand the Project
@@ -57,6 +57,8 @@ Communicate Effectively: Be respectful and professional in all interactions. Ask
 Be Consistent: Regular contributions, even small ones, can have a big impact over time.
 
 Learn from Feedback: Code reviews are a learning opportunity. Embrace feedback and improve your skills.
+
+Align with Project Goals: Check if the project has a board or roadmap showing upcoming features and milestones. Contributing to these priority areas will bring more value to the project and increase the likelihood of your work being accepted.
 
 Give Back: Once you’re comfortable, help others by reviewing PRs, answering questions, or mentoring newcomers.
 
