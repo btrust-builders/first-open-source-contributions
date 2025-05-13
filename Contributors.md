@@ -3,6 +3,7 @@
  - [SharonMurugi](https://github.com/SharonMurugi)
  - [CasperDkk](https://github.com/CasperDkk)
  - [tvpeter](https://github.com/tvpeter)
+ - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
  - [extheoisah](https://github.com/extheoisah)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [heyolaniran](https://github.com/heyolaniran)
