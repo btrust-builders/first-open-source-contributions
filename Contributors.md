@@ -4,4 +4,5 @@
  - [CasperDkk] (https://github.com/CasperDkk)
  - [tvpeter](https://github.com/tvpeter)
  - [extheoisah](https://github.com/extheoisah)
-- [NonsoAmadi](https://github.com/NonsoAmadi10)
+ - [MercyMbao](https://github.com/mercie-ux)
+ - [NonsoAmadi](https://github.com/NonsoAmadi10)
