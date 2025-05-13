@@ -5,3 +5,4 @@
  - [tvpeter](https://github.com/tvpeter)
  - [extheoisah](https://github.com/extheoisah)
 - [NonsoAmadi](https://github.com/NonsoAmadi10)
+ - [heyolaniran](https://github.com/heyolaniran)
