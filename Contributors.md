@@ -9,5 +9,6 @@
  - [BusayoDada](https://github.com/busayo-OD)
  - [heyolaniran](https://github.com/heyolaniran)
  - [MercyMbao](https://github.com/mercie-ux)
+ - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [MercyIsac](https://github.com/Mercy435)
