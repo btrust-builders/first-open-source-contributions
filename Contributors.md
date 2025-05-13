@@ -5,5 +5,6 @@
  - [tvpeter](https://github.com/tvpeter)
  - [extheoisah](https://github.com/extheoisah)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
+ - [BusayoDada](https://github.com/busayo-OD)
  - [heyolaniran](https://github.com/heyolaniran)
  - [MercyMbao](https://github.com/mercie-ux)
