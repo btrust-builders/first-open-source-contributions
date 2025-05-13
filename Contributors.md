@@ -12,3 +12,4 @@
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [MercyIsac](https://github.com/Mercy435)
+ - [LucyKamau](https://github.com/650DataNerd)
