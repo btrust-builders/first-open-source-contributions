@@ -18,4 +18,4 @@
  - [Umar Adamu](https://github.com/Cyber-Lord)
  - [LucyKamau](https://github.com/650DataNerd)
  - [Oscar Anyiam](https://github.com/richieoscar)
-- [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
+ - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
