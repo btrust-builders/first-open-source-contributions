@@ -11,6 +11,7 @@
  - [MercyMbao](https://github.com/mercie-ux)
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
+ - [Fidel Otieno](https://github.com/Fideltodayy)
  - [MercyIsac](https://github.com/Mercy435)
  - [Umar Adamu](https://github.com/Cyber-Lord)
  - [LucyKamau](https://github.com/650DataNerd)
