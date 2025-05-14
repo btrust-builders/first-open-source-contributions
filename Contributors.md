@@ -17,4 +17,5 @@
  - [MercyIsac](https://github.com/Mercy435)
  - [Umar Adamu](https://github.com/Cyber-Lord)
  - [LucyKamau](https://github.com/650DataNerd)
+ - [Musa Haruna](https://github.com/musaHaruna)
  - [Oscar Anyiam](https://github.com/richieoscar)
