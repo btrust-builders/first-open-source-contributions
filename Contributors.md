@@ -1,4 +1,5 @@
 # Contributors
+<<<<<<< HEAD
 
 - [Btrust Builders](https://github.com/btrust-builders)
 - [SharonMurugi](https://github.com/SharonMurugi)
@@ -22,3 +23,28 @@
 - [Obi Chinedu Frank](https://github.com/FrankChinedu)
 - [Oscar Anyiam](https://github.com/richieoscar)
 - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
+=======
+ - [Btrust Builders](https://github.com/btrust-builders)
+ - [SharonMurugi](https://github.com/SharonMurugi)
+ - [AdamuAbba](https://github.com/AdamuAbba)
+ - [CasperDkk](https://github.com/CasperDkk)
+ - [tvpeter](https://github.com/tvpeter)
+ - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
+ - [extheoisah](https://github.com/extheoisah)
+ - [NonsoAmadi](https://github.com/NonsoAmadi10)
+ - [BusayoDada](https://github.com/busayo-OD)
+ - [heyolaniran](https://github.com/heyolaniran)
+ - [ogedengbewisdom](https://github.com/ogedengbewisdom)
+ - [MercyMbao](https://github.com/mercie-ux)
+ - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
+ - [NonsoAmadi](https://github.com/NonsoAmadi10)
+ - [Shuiab Olurode](https://github.com/OShuaib)
+ - [Fidel Otieno](https://github.com/Fideltodayy)
+ - [Mercy Isaac](https://github.com/Mercy435)
+ - [Umar Adamu](https://github.com/Cyber-Lord)
+ - [LucyKamau](https://github.com/650DataNerd)
+ - [Musa Haruna](https://github.com/musaHaruna)
+ - [Obi Chinedu Frank](https://github.com/FrankChinedu)
+ - [Oscar Anyiam](https://github.com/richieoscar)
+ - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
+>>>>>>> upstream/main
