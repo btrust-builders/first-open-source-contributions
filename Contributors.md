@@ -12,6 +12,7 @@
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
  - [MercyMbao](https://github.com/mercie-ux)
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
+ - [Yussif Muniru](https://github.com/Muniru0)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Shuiab Olurode](https://github.com/OShuaib)
  - [Fidel Otieno](https://github.com/Fideltodayy)
