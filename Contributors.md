@@ -2,6 +2,7 @@
  - [Btrust Builders](https://github.com/btrust-builders)
  - [SharonMurugi](https://github.com/SharonMurugi)
  - [AdamuAbba](https://github.com/AdamuAbba)
+ - [shammah Agwor](https://github.com/zealsham)
  - [CasperDkk](https://github.com/CasperDkk)
  - [tvpeter](https://github.com/tvpeter)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
