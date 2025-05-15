@@ -7,6 +7,7 @@
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
  - [extheoisah](https://github.com/extheoisah)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
+ - [Maazi Emeka](https://github.com/maaziEmeka)
  - [BusayoDada](https://github.com/busayo-OD)
  - [heyolaniran](https://github.com/heyolaniran)
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
