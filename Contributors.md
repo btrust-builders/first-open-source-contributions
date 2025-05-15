@@ -19,5 +19,6 @@
 - [Umar Adamu](https://github.com/Cyber-Lord)
 - [LucyKamau](https://github.com/650DataNerd)
 - [Musa Haruna](https://github.com/musaHaruna)
+- [Obi Chinedu Frank](https://github.com/FrankChinedu)
 - [Oscar Anyiam](https://github.com/richieoscar)
 - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
