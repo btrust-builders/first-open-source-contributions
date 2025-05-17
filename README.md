@@ -5,7 +5,7 @@
 
 ### Contributors Country Flags
 <kbd><img title="Nigeria" alt="Nigeria" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22"></kbd>
-
+<kbd><img title="Nigeria" alt="Nigeria" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/bj.svg" width="22"></kbd>
 # First Open Source Contributions
 
 This project aims to simplify and guide the way beginners make their first open source contribution. If you are looking to make your first open source contribution, follow the steps below.
