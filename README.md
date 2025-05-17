@@ -5,6 +5,8 @@
 
 ### Contributors Country Flags
 <kbd><img title="Nigeria" alt="Nigeria" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22"></kbd>
+<kbd><img title="Kenya"   alt="Kenya"   src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ke.svg" width="22"></kbd>
+
 
 # First Open Source Contributions
 
