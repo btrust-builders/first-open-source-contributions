@@ -17,6 +17,7 @@
  - [Yussif Muniru](https://github.com/Muniru0)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Shuiab Olurode](https://github.com/OShuaib)
+ - [Winnie Gitau](https://github.com/b-l-u-e)
  - [Fidel Otieno](https://github.com/Fideltodayy)
  - [Mercy Isaac](https://github.com/Mercy435)
  - [Umar Adamu](https://github.com/Cyber-Lord)
