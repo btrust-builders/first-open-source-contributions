@@ -12,6 +12,7 @@
  - [MercyMbao](https://github.com/mercie-ux)
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
+ - [Mary Wangui](https://github.com/Zeegaths)
  - [Shuiab Olurode](https://github.com/OShuaib)
  - [Fidel Otieno](https://github.com/Fideltodayy)
  - [Mercy Isaac](https://github.com/Mercy435)
@@ -20,3 +21,4 @@
  - [Musa Haruna](https://github.com/musaHaruna)
  - [Oscar Anyiam](https://github.com/richieoscar)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
+ 
