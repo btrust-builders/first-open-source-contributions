@@ -1,6 +1,7 @@
 # Contributors
  - [Btrust Builders](https://github.com/btrust-builders)
  - [SharonMurugi](https://github.com/SharonMurugi)
+ - [Ayokunle Akinsiku](https://github.com/AmosOO7)
  - [AdamuAbba](https://github.com/AdamuAbba)
  - [shammah Agwor](https://github.com/zealsham)
  - [CasperDkk](https://github.com/CasperDkk)
@@ -19,6 +20,7 @@
  - [Ifeanyichukwu Christian Njoku](https://github.com/christify30)
  - [Yussif Muniru](https://github.com/Muniru0)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
+ - [Mary Wangui](https://github.com/Zeegaths)
  - [Shuiab Olurode](https://github.com/OShuaib)
  - [Winnie Gitau](https://github.com/b-l-u-e)
  - [Fidel Otieno](https://github.com/Fideltodayy)
@@ -30,3 +32,4 @@
  - [Oscar Anyiam](https://github.com/richieoscar)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Yan Victor](https://github.com/yhzlsm)
+
