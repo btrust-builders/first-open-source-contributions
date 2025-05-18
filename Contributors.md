@@ -5,6 +5,7 @@
  - [shammah Agwor](https://github.com/zealsham)
  - [CasperDkk](https://github.com/CasperDkk)
  - [tvpeter](https://github.com/tvpeter)
+ - [Alphonse Mehounme](https://github.com/AlphonseMehounme)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
  - [extheoisah](https://github.com/extheoisah)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
