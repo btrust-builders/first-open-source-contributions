@@ -12,6 +12,7 @@
  - [BusayoDada](https://github.com/busayo-OD)
  - [heyolaniran](https://github.com/heyolaniran)
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
+ - [YankhoNgolleka](https://github.com/codaMW)
  - [MercyMbao](https://github.com/mercie-ux)
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
  - [Yussif Muniru](https://github.com/Muniru0)
