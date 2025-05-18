@@ -4,7 +4,7 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](https://opensource.org/licenses/MIT)
 
 ### Contributors Country Flags
-<kbd><img title="Nigeria" alt="Nigeria" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22"></kbd>
+<kbd><img title="Nigeria" alt="Nigeria" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ng.svg" width="22"></kbd> <kbd><img title="Nigeria" alt="Nigeria" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/bj.svg" width="22"></kbd>
 
 # First Open Source Contributions
 
