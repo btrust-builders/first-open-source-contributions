@@ -18,7 +18,7 @@
  - [MercyMbao](https://github.com/mercie-ux)
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
  - [Ifeanyichukwu Christian Njoku](https://github.com/christify30)
- - [Yussif Muniru](https://github.com/Muniru0)
+ - [Yussif Muniru 🇬🇭](https://github.com/Muniru0)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Mary Wangui](https://github.com/Zeegaths)
  - [Shuiab Olurode](https://github.com/OShuaib)
