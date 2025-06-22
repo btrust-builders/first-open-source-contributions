@@ -11,6 +11,7 @@
  - [extheoisah](https://github.com/extheoisah)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Maazi Emeka](https://github.com/maaziEmeka)
+   [Samuel Nweke](https://github.com/Sammie05)
  - [BusayoDada](https://github.com/busayo-OD)
  - [heyolaniran](https://github.com/heyolaniran)
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
