@@ -1,6 +1,8 @@
 # Contributors
  - [Btrust Builders](https://github.com/btrust-builders)
  - [SharonMurugi](https://github.com/SharonMurugi)
+ - [CasperDkk] (https://github.com/CasperDkk)
+ - [Ayrabb](https://github.com/Ayrabb)
  - [Ayokunle Akinsiku](https://github.com/AmosOO7)
  - [AdamuAbba](https://github.com/AdamuAbba)
  - [shammah Agwor](https://github.com/zealsham)
