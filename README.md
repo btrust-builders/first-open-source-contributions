@@ -9,6 +9,7 @@
 <kbd><img title="Benin" alt="Benin" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/bj.svg" width="22"></kbd>
 <kbd><img title="Uganda" alt="Uganda" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ug.svg" width="22"></kbd>
 <kbd><img title="Kenya"   alt="Kenya flag"   src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ke.svg" width="22"></kbd>
+<kbd><img title="Cameroon" alt="Cameroon flag" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/cm.svg" width="22"></kbd>
 
 # First Open Source Contributions
 
