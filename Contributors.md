@@ -35,4 +35,5 @@
  - [Oscar Anyiam](https://github.com/richieoscar)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Yan Victor](https://github.com/yhzlsm)
+ -[Tebogo Makgakga](https://github.com/Ngomayatebogo)
 
