@@ -13,6 +13,7 @@
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Maazi Emeka](https://github.com/maaziEmeka)
  - [BusayoDada](https://github.com/busayo-OD)
+ - [Cindy Tsetse](https://github.com/tsetseC)
  - [Emmanuel Okeke](https://github.com/mimiprosper)
  - [heyolaniran](https://github.com/heyolaniran)
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
