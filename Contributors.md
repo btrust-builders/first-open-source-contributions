@@ -20,6 +20,7 @@
  - [MercyMbao](https://github.com/mercie-ux)
  - [JoyCherotich Kirui](https://github.com/joycherotich)
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
+ - [Uyanda Sibiya](https://github.com/UyandaSibiya)
  - [Ifeanyichukwu Christian Njoku](https://github.com/christify30)
  - [Yussif Muniru 🇬🇭](https://github.com/Muniru0)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
