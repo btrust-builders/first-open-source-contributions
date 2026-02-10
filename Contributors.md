@@ -33,6 +33,7 @@
  - [Musa Haruna](https://github.com/musaHaruna)
  - [Obi Chinedu Frank](https://github.com/FrankChinedu)
  - [Oscar Anyiam](https://github.com/richieoscar)
+ - [Khwezi Flatela](https://github.com/Qwezzy)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Yan Victor](https://github.com/yhzlsm)
 
