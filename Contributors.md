@@ -14,6 +14,7 @@
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
  - [extheoisah](https://github.com/extheoisah)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
+ - [bstreetwise](https://github.com/bstreetwise)
  - [Maazi Emeka](https://github.com/maaziEmeka)
  - [BusayoDada](https://github.com/busayo-OD)
  - [Cindy Tsetse](https://github.com/tsetseC)
