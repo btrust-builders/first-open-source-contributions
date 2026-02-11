@@ -19,6 +19,7 @@
  - [Olaotse Sehularo](https://github.com/Olaotse24)
  - [heyolaniran](https://github.com/heyolaniran)
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
+ - [Matheko Masemola](https://github.com/MathekoTauu/)
  - [YankhoNgolleka](https://github.com/codaMW)
  - [Phumelele M Miya](https://github.com/PhumeleleMMIya)
  - [MercyMbao](https://github.com/mercie-ux)
