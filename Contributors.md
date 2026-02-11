@@ -14,6 +14,7 @@
  - [Maazi Emeka](https://github.com/maaziEmeka)
  - [BusayoDada](https://github.com/busayo-OD)
  - [Emmanuel Okeke](https://github.com/mimiprosper)
+ - [Olaotse Sehularo](https://github.com/Olaotse24)
  - [heyolaniran](https://github.com/heyolaniran)
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
  - [YankhoNgolleka](https://github.com/codaMW)
@@ -35,7 +36,7 @@
  - [Oscar Anyiam](https://github.com/richieoscar)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Yan Victor](https://github.com/yhzlsm)
- - [Olaotse Sehularo](https://github.com/Olaotse24)
+ 
 
 
 
