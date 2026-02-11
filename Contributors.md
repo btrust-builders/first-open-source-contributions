@@ -48,6 +48,5 @@
  - [Khwezi Flatela](https://github.com/Qwezzy)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Yan Victor](https://github.com/yhzlsm)
- - [Yan Victor](https://github.com/yhzlsm)
- - [Lesiba Hope](https://github.com/lesiba-hope)
+ - [Tony Tshandu](https://github.com/tonyontech)
 
