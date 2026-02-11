@@ -23,6 +23,7 @@
  - [YankhoNgolleka](https://github.com/codaMW)
  - [Phumelele M Miya](https://github.com/PhumeleleMMIya)
  - [MercyMbao](https://github.com/mercie-ux)
+ - [DypheChauke](https://github.com/Degrandiloquent)
  - [Shane Dube](https://github.com/filesofShane)
  - [JoyCherotich Kirui](https://github.com/joycherotich)
  - [Kitso Tlhotlhomisang](https://github.com/kitsobonolo2-design)
