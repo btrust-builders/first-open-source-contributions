@@ -1,7 +1,7 @@
 # Contributors
  - [Btrust Builders](https://github.com/btrust-builders)
  - [SharonMurugi](https://github.com/SharonMurugi)
- - [ Andiswa Ndzimande](https://github.com/AndiswaNdzimande)
+ - [Andiswa Ndzimande](https://github.com/AndiswaNdzimande)
  - [Ayokunle Akinsiku](https://github.com/AmosOO7)
  - [AdamuAbba](https://github.com/AdamuAbba)
  - [shammah Agwor](https://github.com/zealsham)
@@ -36,4 +36,4 @@
  - [Oscar Anyiam](https://github.com/richieoscar)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Yan Victor](https://github.com/yhzlsm)
-- [Andiswa NDZIMANDE](https://github.com/AndiswaNdzimande)
+
