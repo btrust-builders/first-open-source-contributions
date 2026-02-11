@@ -22,6 +22,7 @@
  - [Phumelele M Miya](https://github.com/PhumeleleMMIya)
  - [MercyMbao](https://github.com/mercie-ux)
  - [JoyCherotich Kirui](https://github.com/joycherotich)
+ - [Kitso Tlhotlhomisang](https://github.com/kitsobonolo2-design)
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
  - [Uyanda Sibiya](https://github.com/UyandaSibiya)
  - [Ifeanyichukwu Christian Njoku](https://github.com/christify30)
