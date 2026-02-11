@@ -34,6 +34,7 @@
  - [Obi Chinedu Frank](https://github.com/FrankChinedu)
  - [Oscar Anyiam](https://github.com/richieoscar)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
+ - [Tebogo Makgakga](https://github.com/Ngomayatebogo)
  - [Yan Victor](https://github.com/yhzlsm)
- -[Tebogo Makgakga](https://github.com/Ngomayatebogo)
+ 
 
