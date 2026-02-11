@@ -19,6 +19,7 @@
  - [heyolaniran](https://github.com/heyolaniran)
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
  - [YankhoNgolleka](https://github.com/codaMW)
+ - [Phumelele M Miya](https://github.com/PhumeleleMMIya)
  - [MercyMbao](https://github.com/mercie-ux)
  - [JoyCherotich Kirui](https://github.com/joycherotich)
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
