@@ -30,10 +30,10 @@
  - [Mercy Isaac](https://github.com/Mercy435)
  - [Umar Adamu](https://github.com/Cyber-Lord)
  - [LucyKamau](https://github.com/650DataNerd)
+ - [Cebo Makeleni](https://github.com/cebo-dlalagroup)
  - [Musa Haruna](https://github.com/musaHaruna)
  - [Obi Chinedu Frank](https://github.com/FrankChinedu)
  - [Oscar Anyiam](https://github.com/richieoscar)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Yan Victor](https://github.com/yhzlsm)
- - [Cebo Makeleni] (https://github.com/cebo-dlalagroup)
 
