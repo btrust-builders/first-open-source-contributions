@@ -16,6 +16,7 @@
  - [BusayoDada](https://github.com/busayo-OD)
  - [Cindy Tsetse](https://github.com/tsetseC)
  - [Emmanuel Okeke](https://github.com/mimiprosper)
+ - [Olaotse Sehularo](https://github.com/Olaotse24)
  - [heyolaniran](https://github.com/heyolaniran)
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
  - [YankhoNgolleka](https://github.com/codaMW)
@@ -42,6 +43,7 @@
  - [Oscar Anyiam](https://github.com/richieoscar)
  - [Khwezi Flatela](https://github.com/Qwezzy)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
+ - [Yan Victor](https://github.com/yhzlsm)
  - [Yan Victor](https://github.com/yhzlsm)
  - [Lesiba Hope](https://github.com/lesiba-hope)
 
