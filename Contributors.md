@@ -7,6 +7,7 @@
  - [Mustapha Mohammed Devmustee](https://github.com/devmustee)
  - [CasperDkk](https://github.com/CasperDkk)
  - [tvpeter](https://github.com/tvpeter)
+ - [Neo Legodi](https://github.com/Neoo-8)
  - [Alphonse Mehounme](https://github.com/AlphonseMehounme)
  - [Nhlanhla Macdonald Zondi](https://github.com/MacZondi)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
