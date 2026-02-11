@@ -18,6 +18,7 @@
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
  - [YankhoNgolleka](https://github.com/codaMW)
  - [MercyMbao](https://github.com/mercie-ux)
+ - [Shane Dube](https://github.com/filesofShane)
  - [JoyCherotich Kirui](https://github.com/joycherotich)
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
  - [Ifeanyichukwu Christian Njoku](https://github.com/christify30)
