@@ -19,6 +19,7 @@
  - [YankhoNgolleka](https://github.com/codaMW)
  - [MercyMbao](https://github.com/mercie-ux)
  - [JoyCherotich Kirui](https://github.com/joycherotich)
+ - [Kitso Tlhotlhomisang](https://github.com/kitsobonolo2-design)
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
  - [Ifeanyichukwu Christian Njoku](https://github.com/christify30)
  - [Yussif Muniru 🇬🇭](https://github.com/Muniru0)
@@ -35,5 +36,4 @@
  - [Oscar Anyiam](https://github.com/richieoscar)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Yan Victor](https://github.com/yhzlsm)
- - [Kitso Tlhotlhomisang](https://github.com/kitsobonolo2-design)
 
