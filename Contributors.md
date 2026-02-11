@@ -9,6 +9,7 @@
  - [tvpeter](https://github.com/tvpeter)
  - [Alphonse Mehounme](https://github.com/AlphonseMehounme)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
+  - [Sihle Mofokeng](https://github.com/SIPHESIHLE1705)
  - [extheoisah](https://github.com/extheoisah)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Maazi Emeka](https://github.com/maaziEmeka)
@@ -35,5 +36,5 @@
  - [Oscar Anyiam](https://github.com/richieoscar)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Yan Victor](https://github.com/yhzlsm)
- - [Sihle Mofokeng](https://github.com/SIPHESIHLE1705)
+ 
 
