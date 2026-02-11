@@ -36,5 +36,3 @@
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Tebogo Makgakga](https://github.com/Ngomayatebogo)
  - [Yan Victor](https://github.com/yhzlsm)
- 
-
