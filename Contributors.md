@@ -49,6 +49,5 @@
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Moin](https://github.com/mointhedev)
  - [Yan Victor](https://github.com/yhzlsm)
- - [Yan Victor](https://github.com/yhzlsm)
- - [Lesiba Hope](https://github.com/lesiba-hope)
+ - [Tony Tshandu](https://github.com/tonyontech)
 
