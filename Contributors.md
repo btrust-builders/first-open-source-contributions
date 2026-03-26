@@ -14,6 +14,7 @@
  - [Nakiirya Eunice](https://github.com/nakiryaeunice5)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
  - [extheoisah](https://github.com/extheoisah)
+ - [Makmot Johnson](https://github.com/makmot256)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Maazi Emeka](https://github.com/maaziEmeka)
  - [BusayoDada](https://github.com/busayo-OD)
@@ -58,5 +59,7 @@
  - [Herbert Ink](https://github.com/HerbertInk)
  - [Andrew Mugasa](https://github.com/coder256)
  - [Lesiba Hope](https://github.com/lesiba-hope)
+  
+
 
    [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
