@@ -53,6 +53,7 @@
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Moin](https://github.com/mointhedev)
  - [Yan Victor](https://github.com/yhzlsm)
+ - [Komuntale Paula](https://github.com/paulakomuntale)
  - [Yan Victor](https://github.com/yhzlsm)
  - [Megasley](https://github.com/megasley)
  - [Andrew Mugasa](https://github.com/coder256)
