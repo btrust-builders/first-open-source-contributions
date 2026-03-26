@@ -22,6 +22,7 @@
  - [Emmanuel Okeke](https://github.com/mimiprosper)
  - [Olaotse Sehularo](https://github.com/Olaotse24)
  - [heyolaniran](https://github.com/heyolaniran)
+ _ [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
  - [Matheko Masemola](https://github.com/MathekoTauu/)
  - [YankhoNgolleka](https://github.com/codaMW)
@@ -56,3 +57,4 @@
  - [Andrew Mugasa](https://github.com/coder256)
  - [Lesiba Hope](https://github.com/lesiba-hope)
 
+   [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
