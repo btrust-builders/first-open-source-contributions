@@ -1,7 +1,5 @@
 # Contributors
 
-
-
 * [Btrust Builders](https://github.com/btrust-builders)
 * [SharonMurugi](https://github.com/SharonMurugi)
 * [Andiswa Ndzimande](https://github.com/AndiswaNdzimande)
@@ -52,7 +50,6 @@
 * [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
 * [Moin](https://github.com/mointhedev)
 * [Yan Victor](https://github.com/yhzlsm)
-* [Yan Victor](https://github.com/yhzlsm)
+* [Komuntale Paula](https://github.com/paulakomuntale)
 * [Lesiba Hope](https://github.com/lesiba-hope)
-* Komuntale Paula
 
