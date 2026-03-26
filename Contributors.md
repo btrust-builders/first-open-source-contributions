@@ -50,5 +50,6 @@
  - [Moin](https://github.com/mointhedev)
  - [Yan Victor](https://github.com/yhzlsm)
  - [Yan Victor](https://github.com/yhzlsm)
+ - [Megasley](https://github.com/megasley)
  - [Lesiba Hope](https://github.com/lesiba-hope)
 
