@@ -50,6 +50,6 @@
  - [Moin](https://github.com/mointhedev)
  - [Yan Victor](https://github.com/yhzlsm)
  - [Yan Victor](https://github.com/yhzlsm)
- - [Lesiba Hope](https://github.com/lesiba-hope)
  - [Andrew Mugasa](https://github.com/coder256)
+ - [Lesiba Hope](https://github.com/lesiba-hope)
 
