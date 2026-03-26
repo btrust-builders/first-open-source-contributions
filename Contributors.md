@@ -53,5 +53,6 @@
  - [Yan Victor](https://github.com/yhzlsm)
  - [Yan Victor](https://github.com/yhzlsm)
  - [Megasley](https://github.com/megasley)
+ - [Andrew Mugasa](https://github.com/coder256)
  - [Lesiba Hope](https://github.com/lesiba-hope)
 
