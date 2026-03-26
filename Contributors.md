@@ -17,6 +17,7 @@
  - [Maazi Emeka](https://github.com/maaziEmeka)
  - [BusayoDada](https://github.com/busayo-OD)
  - [Cindy Tsetse](https://github.com/tsetseC)
+ - [Kabba Joseph Timothy](https://github.com/josephkabba)
  - [Emmanuel Okeke](https://github.com/mimiprosper)
  - [Olaotse Sehularo](https://github.com/Olaotse24)
  - [heyolaniran](https://github.com/heyolaniran)
