@@ -13,6 +13,7 @@
  - [Nhlanhla Macdonald Zondi](https://github.com/MacZondi)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
  - [extheoisah](https://github.com/extheoisah)
+ - [Makmot Johnson](https://github.com/makmot256)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Maazi Emeka](https://github.com/maaziEmeka)
  - [BusayoDada](https://github.com/busayo-OD)
@@ -51,6 +52,6 @@
  - [Yan Victor](https://github.com/yhzlsm)
  - [Yan Victor](https://github.com/yhzlsm)
  - [Lesiba Hope](https://github.com/lesiba-hope)
- - [Makmot Johnson](https://github.com/makmot256)
+  
 
 
