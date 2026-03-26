@@ -45,6 +45,7 @@
 * [Umar Adamu](https://github.com/Cyber-Lord)
 * [LucyKamau](https://github.com/650DataNerd)
 * [Cebo Makeleni](https://github.com/cebo-dlalagroup)
+   [Komuntale paula ](https://github.com/paulakomuntale)
 * [Musa Haruna](https://github.com/musaHaruna)
 * [Obi Chinedu Frank](https://github.com/FrankChinedu)
 * [Oscar Anyiam](https://github.com/richieoscar)
@@ -54,5 +55,5 @@
 * [Yan Victor](https://github.com/yhzlsm)
 * [Yan Victor](https://github.com/yhzlsm)
 * [Lesiba Hope](https://github.com/lesiba-hope)
-* Komuntale Paula
+
 
