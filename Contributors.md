@@ -2,6 +2,7 @@
  - [Btrust Builders](https://github.com/btrust-builders)
  - [SharonMurugi](https://github.com/SharonMurugi)
  - [Andiswa Ndzimande](https://github.com/AndiswaNdzimande)
+ - [kc-clintone](https://github.com/kc-clintone)
  - [Ayokunle Akinsiku](https://github.com/AmosOO7)
  - [AdamuAbba](https://github.com/AdamuAbba)
  - [shammah Agwor](https://github.com/zealsham)
