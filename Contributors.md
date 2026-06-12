@@ -22,6 +22,7 @@
  - [Nakiirya Eunice](https://github.com/nakiryaeunice5)
  - [Apiyo Margaret](https://github.com/ApiyoMargaret)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
+ - [Victor Kimutai](https://github.com/HACKWITHNESBITT)
  - [extheoisah](https://github.com/extheoisah)
  - [victor ouma](https://github.com/oumaasoyoh-hue)
  - [Isaac Atweta](https://github.com/A-Isaac17)
