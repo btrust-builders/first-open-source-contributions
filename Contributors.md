@@ -5,6 +5,7 @@
  - [Ayokunle Akinsiku](https://github.com/AmosOO7)
  - [AdamuAbba](https://github.com/AdamuAbba)
  - [shammah Agwor](https://github.com/zealsham)
+ - [Quinton Juma](https://github.com/quinton-8)
  - [Mustapha Mohammed Devmustee](https://github.com/devmustee)
  - [CasperDkk](https://github.com/CasperDkk)
  - [tvpeter](https://github.com/tvpeter)
