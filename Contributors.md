@@ -59,6 +59,7 @@
  - [Haji Ismael 🇰🇪](https://github.com/hajisml)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Mary Wangui](https://github.com/Zeegaths)
+ - [Ian Ochieng] (https://github.com/iochieng1)
  - [Shuiab Olurode](https://github.com/OShuaib)
  - [Favor Charles Owuor🇰🇪](https://github.com/f18charles)
  - [Winnie Gitau](https://github.com/b-l-u-e)
