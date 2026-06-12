@@ -12,6 +12,7 @@
  - [CasperDkk](https://github.com/CasperDkk)
  - [Walter Onyango](https://github.com/walterhrad-pixel)
  - [tvpeter](https://github.com/tvpeter)
+ - [Robert Wairi](https://github.com/wairewaire)
  - [Neo Legodi](https://github.com/Neoo-8)
  - [Evans Juma](https://github.com/eojuma)
  - [Alphonse Mehounme](https://github.com/AlphonseMehounme)
