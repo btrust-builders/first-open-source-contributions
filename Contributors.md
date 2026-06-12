@@ -28,6 +28,7 @@
  - [Matheko Masemola](https://github.com/MathekoTauu/)
  - [YankhoNgolleka](https://github.com/codaMW)
  - [Phumelele M Miya](https://github.com/PhumeleleMMIya)
+ - [Joy Lamka] (https://github.com/lams-joy)
  - [MercyMbao](https://github.com/mercie-ux)
  - [GladysAcaa](https://github.com/gladysacaa/)
  - [DypheChauke](https://github.com/Degrandiloquent)
