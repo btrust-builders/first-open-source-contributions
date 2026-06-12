@@ -54,6 +54,7 @@
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Moin](https://github.com/mointhedev)
  - [Yan Victor](https://github.com/yhzlsm)
+ - [Teddy Odhiambo] (https://github.com/tedodhiambo)
  - [Yan Victor](https://github.com/yhzlsm)
  - [Megasley](https://github.com/megasley)
  - [Herbert Ink](https://github.com/HerbertInk)
