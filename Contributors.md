@@ -4,6 +4,7 @@
  - [Andiswa Ndzimande](https://github.com/AndiswaNdzimande)
  - [Ayokunle Akinsiku](https://github.com/AmosOO7)
  - [AdamuAbba](https://github.com/AdamuAbba)
+ - [Benjamin Koimett 🇰🇪](https://github.com/bkoimett)
  - [shammah Agwor](https://github.com/zealsham)
  - [Mustapha Mohammed Devmustee](https://github.com/devmustee)
  - [CasperDkk](https://github.com/CasperDkk)
