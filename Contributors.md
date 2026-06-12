@@ -3,6 +3,7 @@
  - [SharonMurugi](https://github.com/SharonMurugi)
  - [Andiswa Ndzimande](https://github.com/AndiswaNdzimande)
  - [Ayokunle Akinsiku](https://github.com/AmosOO7)
+ - [Michael Clay](https://github.com/ClayMichael2004)
  - [AdamuAbba](https://github.com/AdamuAbba)
  - [shammah Agwor](https://github.com/zealsham)
  - [Mustapha Mohammed Devmustee](https://github.com/devmustee)
@@ -62,3 +63,4 @@
 
    [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
 - [Khairil](https://github.com/kaizeenn)
+
