@@ -62,3 +62,4 @@
 
    [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
 - [Khairil](https://github.com/kaizeenn)
+- [Bramwel Mutugi](https://github.com/dev-bramwel)
