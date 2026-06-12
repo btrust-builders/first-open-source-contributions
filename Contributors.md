@@ -27,6 +27,7 @@
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
  - [Matheko Masemola](https://github.com/MathekoTauu/)
  - [YankhoNgolleka](https://github.com/codaMW)
+ - [Peter Iregi](https://github.com/PeterIregi)
  - [Phumelele M Miya](https://github.com/PhumeleleMMIya)
  - [MercyMbao](https://github.com/mercie-ux)
  - [GladysAcaa](https://github.com/gladysacaa/)
