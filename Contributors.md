@@ -41,6 +41,7 @@
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Mary Wangui](https://github.com/Zeegaths)
  - [Shuiab Olurode](https://github.com/OShuaib)
+ - [Mary Martha](https://github.com/Martha265)
  - [Winnie Gitau](https://github.com/b-l-u-e)
  - [Fidel Otieno](https://github.com/Fideltodayy)
  - [Mercy Isaac](https://github.com/Mercy435)
