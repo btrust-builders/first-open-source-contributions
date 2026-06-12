@@ -26,6 +26,7 @@
  _ [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
  - [Matheko Masemola](https://github.com/MathekoTauu/)
+ - [Jeff Ronnie](https://github.com/rjeff-sudo)
  - [YankhoNgolleka](https://github.com/codaMW)
  - [Phumelele M Miya](https://github.com/PhumeleleMMIya)
  - [MercyMbao](https://github.com/mercie-ux)
