@@ -15,6 +15,7 @@
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
  - [extheoisah](https://github.com/extheoisah)
  - [Isaac Atweta](https://github.com/A-Isaac17)
+ - [Ashly Omondi](https://github.com/Ashomondi)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Maazi Emeka](https://github.com/maaziEmeka)
  - [BusayoDada](https://github.com/busayo-OD)
