@@ -5,6 +5,7 @@
  - [kc-clintone](https://github.com/kc-clintone)
  - [Ayokunle Akinsiku](https://github.com/AmosOO7)
  - [AdamuAbba](https://github.com/AdamuAbba)
+ - [Benjamin Koimett 🇰🇪](https://github.com/bkoimett)
  - [shammah Agwor](https://github.com/zealsham)
  - [Quinton Juma](https://github.com/quinton-8)
  - [Mustapha Mohammed Devmustee](https://github.com/devmustee)
