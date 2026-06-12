@@ -34,6 +34,7 @@
  - [Shane Dube](https://github.com/filesofShane)
  - [JoyCherotich Kirui](https://github.com/joycherotich)
  - [Kitso Tlhotlhomisang](https://github.com/kitsobonolo2-design)
+ - [Moses Amani Milimu](https://github.com/Musaamanipeace)
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
  - [Uyanda Sibiya](https://github.com/UyandaSibiya)
  - [Ifeanyichukwu Christian Njoku](https://github.com/christify30)
