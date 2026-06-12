@@ -43,6 +43,7 @@
  - [Shuiab Olurode](https://github.com/OShuaib)
  - [Winnie Gitau](https://github.com/b-l-u-e)
  - [Fidel Otieno](https://github.com/Fideltodayy)
+ - [Bethwel Kiplagat](https://github.com/bethwel3001)
  - [Mercy Isaac](https://github.com/Mercy435)
  - [Umar Adamu](https://github.com/Cyber-Lord)
  - [LucyKamau](https://github.com/650DataNerd)
