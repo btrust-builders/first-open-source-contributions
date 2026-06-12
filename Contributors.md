@@ -49,6 +49,7 @@
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Mary Wangui](https://github.com/Zeegaths)
  - [Shuiab Olurode](https://github.com/OShuaib)
+ - [Favor Charles Owuor🇰🇪](https://github.com/f18charles)
  - [Winnie Gitau](https://github.com/b-l-u-e)
  - [Fidel Otieno](https://github.com/Fideltodayy)
  - [Bethwel Kiplagat](https://github.com/bethwel3001)
