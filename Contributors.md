@@ -48,6 +48,8 @@
  - [LucyKamau](https://github.com/650DataNerd)
  - [Cebo Makeleni](https://github.com/cebo-dlalagroup)
  - [Musa Haruna](https://github.com/musaHaruna)
+ - [Alvin James]
+ (https://github.com/alvinjames-max)
  - [Obi Chinedu Frank](https://github.com/FrankChinedu)
  - [Oscar Anyiam](https://github.com/richieoscar)
  - [Khwezi Flatela](https://github.com/Qwezzy)
