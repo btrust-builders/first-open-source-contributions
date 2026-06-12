@@ -13,6 +13,7 @@
  - [Nhlanhla Macdonald Zondi](https://github.com/MacZondi)
  - [Nakiirya Eunice](https://github.com/nakiryaeunice5)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
+ - [Waore Maxwel Odongo](https://github.com/Astra-max)
  - [extheoisah](https://github.com/extheoisah)
  - [Isaac Atweta](https://github.com/A-Isaac17)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
