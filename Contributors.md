@@ -1,6 +1,6 @@
 # Contributors
- - [Henry Anayo](https://github.com/hanayo-dot)
  - [Btrust Builders](https://github.com/btrust-builders)
+ - [Henry Anayo](https://github.com/hanayo-dot)
  - [SharonMurugi](https://github.com/SharonMurugi)
  - [Andiswa Ndzimande](https://github.com/AndiswaNdzimande)
  - [Ayokunle Akinsiku](https://github.com/AmosOO7)
