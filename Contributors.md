@@ -8,6 +8,7 @@
  - [shammah Agwor](https://github.com/zealsham)
  - [Quinton Juma](https://github.com/quinton-8)
  - [Mustapha Mohammed Devmustee](https://github.com/devmustee)
+ - [frihk](https://github.com/frihk)
  - [CasperDkk](https://github.com/CasperDkk)
  - [Walter Onyango](https://github.com/walterhrad-pixel)
  - [tvpeter](https://github.com/tvpeter)
