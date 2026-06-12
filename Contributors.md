@@ -23,6 +23,7 @@
  - [Apiyo Margaret](https://github.com/ApiyoMargaret)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
  - [extheoisah](https://github.com/extheoisah)
+ - [victor ouma](https://github.com/oumaasoyoh-hue)
  - [Isaac Atweta](https://github.com/A-Isaac17)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Maazi Emeka](https://github.com/maaziEmeka)
