@@ -9,6 +9,7 @@
  - [CasperDkk](https://github.com/CasperDkk)
  - [tvpeter](https://github.com/tvpeter)
  - [Neo Legodi](https://github.com/Neoo-8)
+ - [Brendan Akudo](https://github.com/D3ITY-YODA)
  - [Alphonse Mehounme](https://github.com/AlphonseMehounme)
  - [Nhlanhla Macdonald Zondi](https://github.com/MacZondi)
  - [Nakiirya Eunice](https://github.com/nakiryaeunice5)
