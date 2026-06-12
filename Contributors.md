@@ -45,6 +45,7 @@
  - [Phumelele M Miya](https://github.com/PhumeleleMMIya)
  - [MercyMbao](https://github.com/mercie-ux)
  - [GladysAcaa](https://github.com/gladysacaa/)
+ - [Richard Ochola](https://github.com/ochola-rich)
  - [DypheChauke](https://github.com/Degrandiloquent)
  - [Shane Dube](https://github.com/filesofShane)
  - [Peter Iregi](https://github.com/PeterIregi)
