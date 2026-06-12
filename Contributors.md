@@ -6,6 +6,8 @@
  - [AdamuAbba](https://github.com/AdamuAbba)
  - [shammah Agwor](https://github.com/zealsham)
  - [Mustapha Mohammed Devmustee](https://github.com/devmustee)
+ - [Meroline Lizlent] (https://github.com/Lizlent-Meroline)
+
  - [CasperDkk](https://github.com/CasperDkk)
  - [tvpeter](https://github.com/tvpeter)
  - [Neo Legodi](https://github.com/Neoo-8)
