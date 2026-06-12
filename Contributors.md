@@ -12,6 +12,7 @@
  - [Alphonse Mehounme](https://github.com/AlphonseMehounme)
  - [Nhlanhla Macdonald Zondi](https://github.com/MacZondi)
  - [Nakiirya Eunice](https://github.com/nakiryaeunice5)
+ - [Apiyo Margaret](https://github.com/ApiyoMargaret)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
  - [extheoisah](https://github.com/extheoisah)
  - [Isaac Atweta](https://github.com/A-Isaac17)
