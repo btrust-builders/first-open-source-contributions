@@ -40,6 +40,7 @@
  - [Yussif Muniru 🇬🇭](https://github.com/Muniru0)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Mary Wangui](https://github.com/Zeegaths)
+ - [Ian Ochieng] (https://github.com/iochieng1)
  - [Shuiab Olurode](https://github.com/OShuaib)
  - [Winnie Gitau](https://github.com/b-l-u-e)
  - [Fidel Otieno](https://github.com/Fideltodayy)
