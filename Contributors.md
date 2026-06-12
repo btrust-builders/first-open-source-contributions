@@ -23,6 +23,7 @@
  - [Emmanuel Okeke](https://github.com/mimiprosper)
  - [Olaotse Sehularo](https://github.com/Olaotse24)
  - [heyolaniran](https://github.com/heyolaniran)
+ - [Oduor Alphonce](https://github.com/OduorAlphonce)
  _ [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
  - [ogedengbewisdom](https://github.com/ogedengbewisdom)
  - [Matheko Masemola](https://github.com/MathekoTauu/)
