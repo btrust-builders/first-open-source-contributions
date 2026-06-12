@@ -62,3 +62,4 @@
 
    [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
 - [Khairil](https://github.com/kaizeenn)
+- [Flovian Atieno](https://github.com/flovian)
