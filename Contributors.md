@@ -18,6 +18,7 @@
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
  - [Maazi Emeka](https://github.com/maaziEmeka)
  - [BusayoDada](https://github.com/busayo-OD)
+ - [Luiz Were](https://github.com/luiwere)
  - [Cindy Tsetse](https://github.com/tsetseC)
  - [Kabba Joseph Timothy](https://github.com/josephkabba)
  - [Emmanuel Okeke](https://github.com/mimiprosper)
