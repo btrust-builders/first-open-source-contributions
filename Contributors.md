@@ -11,6 +11,7 @@
  - [Neo Legodi](https://github.com/Neoo-8)
  - [Alphonse Mehounme](https://github.com/AlphonseMehounme)
  - [Nhlanhla Macdonald Zondi](https://github.com/MacZondi)
+ - [Cosmas Ken](https://github.com/cosmasken)
  - [Nakiirya Eunice](https://github.com/nakiryaeunice5)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
  - [extheoisah](https://github.com/extheoisah)
