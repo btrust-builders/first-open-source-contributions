@@ -51,6 +51,7 @@
  - [Obi Chinedu Frank](https://github.com/FrankChinedu)
  - [Oscar Anyiam](https://github.com/richieoscar)
  - [Khwezi Flatela](https://github.com/Qwezzy)
+- [KwachOjunga](https://github.com/KwachOjunga)
  - [Adewale Ijalana (AI)](https://github.com/adewaleijalana)
  - [Moin](https://github.com/mointhedev)
  - [Yan Victor](https://github.com/yhzlsm)
