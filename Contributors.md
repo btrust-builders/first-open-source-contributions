@@ -36,6 +36,7 @@
  - [GladysAcaa](https://github.com/gladysacaa/)
  - [DypheChauke](https://github.com/Degrandiloquent)
  - [Shane Dube](https://github.com/filesofShane)
+ - [Peter Iregi](https://github.com/PeterIregi)
  - [JoyCherotich Kirui](https://github.com/joycherotich)
  - [Kitso Tlhotlhomisang](https://github.com/kitsobonolo2-design)
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
