@@ -8,6 +8,7 @@
  - [Mercy Moraa](https://github.com/Moraa021)
  - [Benjamin Koimett 🇰🇪](https://github.com/bkoimett)
  - [shammah Agwor](https://github.com/zealsham)
+ - [Victoria Odalo](https://github.com/OdaloV)
  - [Quinton Juma](https://github.com/quinton-8)
  - [Mustapha Mohammed Devmustee](https://github.com/devmustee)
  - [frihk](https://github.com/frihk)
