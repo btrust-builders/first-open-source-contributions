@@ -13,6 +13,7 @@
  - [Mustapha Mohammed Devmustee](https://github.com/devmustee)
  - [frihk](https://github.com/frihk)
  - [CasperDkk](https://github.com/CasperDkk)
+ - [obarelawrence-builder](https://github.com/obarelawrence-builder)
  - [Walter Onyango](https://github.com/walterhrad-pixel)
  - [tvpeter](https://github.com/tvpeter)
  - [Robert Wairi](https://github.com/wairewaire)
