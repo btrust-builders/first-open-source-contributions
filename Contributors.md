@@ -18,6 +18,7 @@
  - [tvpeter](https://github.com/tvpeter)
  - [Robert Wairi](https://github.com/wairewaire)
  - [Neo Legodi](https://github.com/Neoo-8)
+ - [Odinga Valery](https://github.com/odingaval)
  - [Evans Juma](https://github.com/eojuma)
  - [Alphonse Mehounme](https://github.com/AlphonseMehounme)
  - [Nhlanhla Macdonald Zondi](https://github.com/MacZondi)
