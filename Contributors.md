@@ -18,6 +18,7 @@
  - [tvpeter](https://github.com/tvpeter)
  - [Robert Wairi](https://github.com/wairewaire)
  - [Neo Legodi](https://github.com/Neoo-8)
+ - [rrouwelng](https://github.com/rouwel)
  - [Evans Juma](https://github.com/eojuma)
  - [Alphonse Mehounme](https://github.com/AlphonseMehounme)
  - [Nhlanhla Macdonald Zondi](https://github.com/MacZondi)
@@ -94,3 +95,4 @@
 
    [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
 - [Khairil](https://github.com/kaizeenn)
+
