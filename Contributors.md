@@ -2,6 +2,7 @@
  - [Btrust Builders](https://github.com/btrust-builders)
  - [SharonMurugi](https://github.com/SharonMurugi)
  - [Andiswa Ndzimande](https://github.com/AndiswaNdzimande)
+ [Grace Ujah](https://github.com/Grace-Ujah)
  - [kc-clintone](https://github.com/kc-clintone)
  - [Ayokunle Akinsiku](https://github.com/AmosOO7)
  - [AdamuAbba](https://github.com/AdamuAbba)

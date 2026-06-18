@@ -45,7 +45,7 @@ For example:
 git clone git@github.com:your-github-username/first-open-source-contributions.git
 ```
 
-where `your-github-username` is replace by your real GitHub username. Here you're copying the contents of the first-open-source-contributions repository on GitHub to your computer.
+where `your-github-username` is replaced by your real GitHub username. Here you're copying the contents of the first-open-source-contributions repository on GitHub to your computer.
 
 ## Create a branch
 
