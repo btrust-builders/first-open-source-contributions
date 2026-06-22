@@ -34,6 +34,7 @@
  - [Omito Elizabeth](https://github.com/elomito)
  - [Ashly Omondi](https://github.com/Ashomondi)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
+ - [bstreetwise](https://github.com/bstreetwise)
  - [Maazi Emeka](https://github.com/maaziEmeka)
  - [BusayoDada](https://github.com/busayo-OD)
  - [Luiz Were](https://github.com/luiwere)
