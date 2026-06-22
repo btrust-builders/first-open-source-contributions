@@ -1,5 +1,6 @@
 # Contributors
  - [Btrust Builders](https://github.com/btrust-builders)
+ kiyimba fahad
  - [SharonMurugi](https://github.com/SharonMurugi)
  - [Andiswa Ndzimande](https://github.com/AndiswaNdzimande)
  - [kc-clintone](https://github.com/kc-clintone)
