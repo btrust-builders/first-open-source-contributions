@@ -27,6 +27,7 @@
  - [Stanley Chege Thuita 🇰🇪](https://github.com/altradits)
  - [Apiyo Margaret](https://github.com/ApiyoMargaret)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
+ - [Waore Maxwel Odongo](https://github.com/Astra-max)
  - [Victor Kimutai](https://github.com/HACKWITHNESBITT)
  - [extheoisah](https://github.com/extheoisah)
  - [victor ouma](https://github.com/oumaasoyoh-hue)
