@@ -54,6 +54,7 @@
  - [Francis Awuor](https://github.com/FrankCidney/)
  - [YankhoNgolleka](https://github.com/codaMW)
  - [Phumelele M Miya](https://github.com/PhumeleleMMIya)
+ - [Ndikumana Idris 🇧🇮](https://github.com/ndikuma)
  - [MercyMbao](https://github.com/mercie-ux)
  - [GladysAcaa](https://github.com/gladysacaa/)
  - [Richard Ochola](https://github.com/ochola-rich)
