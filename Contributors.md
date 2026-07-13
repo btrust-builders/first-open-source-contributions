@@ -81,6 +81,7 @@
  - [Umar Adamu](https://github.com/Cyber-Lord)
  - [LucyKamau](https://github.com/650DataNerd)
  - [Cebo Makeleni](https://github.com/cebo-dlalagroup)
+ - [bagwells](https://github.com/bagwells)
  - [Musa Haruna](https://github.com/musaHaruna)
  - [Alvin James]
  (https://github.com/alvinjames-max)
