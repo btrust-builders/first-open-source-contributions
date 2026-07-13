@@ -10,6 +10,7 @@
 <kbd><img title="Uganda" alt="Uganda" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ug.svg" width="22"></kbd>
 <kbd><img title="Kenya"   alt="Kenya flag"   src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/ke.svg" width="22"></kbd>
 <kbd><img title="South Africa" alt="South Africa" src="https://cdn.pixabay.com/photo/2012/04/10/23/14/south-africa-26912_1280.png" width="22"></kbd>
+<kbd><img title="Ghana" alt="Ghana" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/gh.svg" width="22"></kbd>
 
 
 # First Open Source Contributions
@@ -45,7 +46,7 @@ For example:
 git clone git@github.com:your-github-username/first-open-source-contributions.git
 ```
 
-where `your-github-username` is replace by your real GitHub username. Here you're copying the contents of the first-open-source-contributions repository on GitHub to your computer.
+where `your-github-username` is replaced by your real GitHub username. Here you're copying the contents of the first-open-source-contributions repository on GitHub to your computer.
 
 ## Create a branch
 
