@@ -97,6 +97,7 @@
  - [Megasley](https://github.com/megasley)
  - [Herbert Ink](https://github.com/HerbertInk)
  - [Andrew Mugasa](https://github.com/coder256)
+ - [Akpah Samuel 🇬🇭](https://github.com/Akpahsamuel)
  - [Lesiba Hope](https://github.com/lesiba-hope)
 
    [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
