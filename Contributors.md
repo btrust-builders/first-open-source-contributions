@@ -19,6 +19,7 @@
  - [tvpeter](https://github.com/tvpeter)
  - [Robert Wairi](https://github.com/wairewaire)
  - [Neo Legodi](https://github.com/Neoo-8)
+ - [Stephen Jarso](https://github.com/StephenJarso)
  - [rrouwelng](https://github.com/rouwel)
  - [Evans Juma](https://github.com/eojuma)
  - [Alphonse Mehounme](https://github.com/AlphonseMehounme)
