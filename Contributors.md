@@ -18,6 +18,7 @@
  - [Walter Onyango](https://github.com/walterhrad-pixel)
  - [tvpeter](https://github.com/tvpeter)
  - [Robert Wairi](https://github.com/wairewaire)
+ - [Tinkouree Bibi Shania](https://github.com/shania-prin)
  - [Neo Legodi](https://github.com/Neoo-8)
  - [Stephen Jarso](https://github.com/StephenJarso)
  - [rrouwelng](https://github.com/rouwel)
