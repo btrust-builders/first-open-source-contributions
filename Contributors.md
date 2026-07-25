@@ -62,6 +62,7 @@
  - [DypheChauke](https://github.com/Degrandiloquent)
  - [Shane Dube](https://github.com/filesofShane)
  - [Peter Iregi](https://github.com/PeterIregi)
+ - [Sheila Ochieng](https://github.com/SheilaSusan)
  - [JoyCherotich Kirui](https://github.com/joycherotich)
  - [Kitso Tlhotlhomisang](https://github.com/kitsobonolo2-design)
  - [Moses Amani Milimu](https://github.com/Musaamanipeace)
