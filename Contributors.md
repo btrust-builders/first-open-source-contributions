@@ -102,5 +102,5 @@
  - [Lesiba Hope](https://github.com/lesiba-hope)
 
    [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
-- [Khairil](https://github.com/kaizeenn)
-
+ - [Khairil](https://github.com/kaizeenn)
+ - [Hanif Olayiwola](https://github.com/TheNonFungibleHuman)
