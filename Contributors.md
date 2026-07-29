@@ -95,6 +95,7 @@
  - [LucyKamau](https://github.com/650DataNerd)
  - [Cebo Makeleni](https://github.com/cebo-dlalagroup)
  - [bagwells](https://github.com/bagwells)
+ - [Abdurhaman nur](https://github.com/abdunur-dev)
  - [Musa Haruna](https://github.com/musaHaruna)
  - [Alvin James]
  (https://github.com/alvinjames-max)
