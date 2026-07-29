@@ -17,6 +17,7 @@
  - [obarelawrence-builder](https://github.com/obarelawrence-builder)
  - [Walter Onyango](https://github.com/walterhrad-pixel)
  - [tvpeter](https://github.com/tvpeter)
+ - [mohammedkasim](https://github.com/mokasimumer)
  - [Robert Wairi](https://github.com/wairewaire)
  - [Tinkouree Bibi Shania](https://github.com/shania-prin)
  - [Neo Legodi](https://github.com/Neoo-8)
