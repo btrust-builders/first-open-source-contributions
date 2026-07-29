@@ -111,6 +111,7 @@
  - [Andrew Mugasa](https://github.com/coder256)
  - [Akpah Samuel 🇬🇭](https://github.com/Akpahsamuel)
  - [Lesiba Hope](https://github.com/lesiba-hope)
+ - [Simret Kassahun](https://github.com/Simret)
  - [Habtaamu Tekle](https://github.com/haftu-tekle)
    [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
 - [Khairil](https://github.com/kaizeenn)
