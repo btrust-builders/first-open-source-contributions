@@ -77,6 +77,7 @@
  - [Yussif Muniru 🇬🇭](https://github.com/Muniru0)
  - [Haji Ismael 🇰🇪](https://github.com/hajisml)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
+ - [Eden Sahlie](https://github.com/Eden1916)
  - [Mary Wangui](https://github.com/Zeegaths)
  - [Ian Ochieng] (https://github.com/iochieng1)
  - [Shuiab Olurode](https://github.com/OShuaib)
