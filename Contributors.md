@@ -47,6 +47,7 @@
  - [Silas Lelei](https://github.com/Silas-Labs)
  - [Cindy Tsetse](https://github.com/tsetseC)
  - [Michael Nyawade](https://github.com/Michael-Nyawade)
+ - [Herman Alagaw] (https://github.com/hermangetaneh)
  - [Kabba Joseph Timothy](https://github.com/josephkabba)
  - [Emmanuel Okeke](https://github.com/mimiprosper)
  - [Olaotse Sehularo](https://github.com/Olaotse24)
