@@ -12,6 +12,8 @@
 <kbd><img title="South Africa" alt="South Africa" src="https://cdn.pixabay.com/photo/2012/04/10/23/14/south-africa-26912_1280.png" width="22"></kbd>
 <kbd><img title="Ghana" alt="Ghana" src="https://cdn.statically.io/gh/hjnilsson/country-flags/master/svg/gh.svg" width="22"></kbd>
 
+<kbd><img title="Ethiopia" alt="Ethiopia" src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/ethiopia-flag-icon.png" width="22"></kbd>
+<kbd>
 
 # First Open Source Contributions
 
