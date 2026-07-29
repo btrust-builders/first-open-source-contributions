@@ -8,6 +8,7 @@
  - [AdamuAbba](https://github.com/AdamuAbba)
  - [Mercy Moraa](https://github.com/Moraa021)
  - [Benjamin Koimett 🇰🇪](https://github.com/bkoimett)
+ - [Sinhawe Etefa](https://github.com/byeolbae17-debug)
  - [shammah Agwor](https://github.com/zealsham)
  - [Victoria Odalo](https://github.com/OdaloV)
  - [Quinton Juma](https://github.com/quinton-8)
