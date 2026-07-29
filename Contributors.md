@@ -2,7 +2,6 @@
 
 * [Btrust Builders](https://github.com/btrust-builders)
 * [SharonMurugi](https://github.com/SharonMurugi)
-Abdurahamnnur
 * [Andiswa Ndzimande](https://github.com/AndiswaNdzimande)
 * [Grace Ujah](https://github.com/Grace-Ujah)
 * [kc-clintone](https://github.com/kc-clintone)
@@ -86,6 +85,7 @@ Abdurahamnnur
 * [Austine Zeze](https://github.com/Austinezeze7)
 * [Umar Adamu](https://github.com/Cyber-Lord)
 * [LucyKamau](https://github.com/650DataNerd)
+* [Abdurhaman Nur](https://github.com/abdunur-dev)
 * [Cebo Makeleni](https://github.com/cebo-dlalagroup)
 * [bagwells](https://github.com/bagwells)
 * [Musa Haruna](https://github.com/musaHaruna)
