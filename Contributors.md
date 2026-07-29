@@ -33,6 +33,7 @@
  - [Nakiirya Eunice](https://github.com/nakiryaeunice5)
  - [Stanley Chege Thuita 🇰🇪](https://github.com/altradits)
  - [Apiyo Margaret](https://github.com/ApiyoMargaret)
+ - [Elias Mengaw](https://github.com/elondae)
  - [Ojok Emmanuel Nsubuga](https://github.com/ojokne)
  - [Waore Maxwel Odongo](https://github.com/Astra-max)
  - [Victor Kimutai](https://github.com/HACKWITHNESBITT)
