@@ -95,6 +95,7 @@
  - [Cebo Makeleni](https://github.com/cebo-dlalagroup)
  - [bagwells](https://github.com/bagwells)
  - [Musa Haruna](https://github.com/musaHaruna)
+ - [Abdurhaman Nur](https://github.com/abdunur-dev)
  - [Alvin James]
  (https://github.com/alvinjames-max)
  - [Obi Chinedu Frank](https://github.com/FrankChinedu)
