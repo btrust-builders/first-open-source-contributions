@@ -23,6 +23,7 @@
  - [Stephen Jarso](https://github.com/StephenJarso)
  - [rrouwelng](https://github.com/rouwel)
  - [Evans Juma](https://github.com/eojuma)
+ - [Silamlak Desye](https://github.com/amlaksil)
  - [Alphonse Mehounme](https://github.com/AlphonseMehounme)
  - [Nhlanhla Macdonald Zondi](https://github.com/MacZondi)
  - [Cosmas Ken](https://github.com/cosmasken)
