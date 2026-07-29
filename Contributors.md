@@ -12,6 +12,7 @@
  - [altradits](https://github.com/altradits)
  - [Victoria Odalo](https://github.com/OdaloV)
  - [Quinton Juma](https://github.com/quinton-8)
+ - [Amran Abduselam](https://github.com/amranabduselamamran-ux)
  - [Mustapha Mohammed Devmustee](https://github.com/devmustee)
  - [frihk](https://github.com/frihk)
  - [CasperDkk](https://github.com/CasperDkk)
