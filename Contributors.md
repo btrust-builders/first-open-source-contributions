@@ -91,6 +91,7 @@
  - [Bethwel Kiplagat](https://github.com/bethwel3001)
  - [Mercy Isaac](https://github.com/Mercy435)
  - [Austine Zeze](https://github.com/Austinezeze7)
+- [Abdurehman](https://github.com/Abdurehman-Kero)
  - [Umar Adamu](https://github.com/Cyber-Lord)
  - [LucyKamau](https://github.com/650DataNerd)
  - [Cebo Makeleni](https://github.com/cebo-dlalagroup)
@@ -116,4 +117,3 @@
  - [Habtaamu Tekle](https://github.com/haftu-tekle)
    [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
 - [Khairil](https://github.com/kaizeenn)
-
