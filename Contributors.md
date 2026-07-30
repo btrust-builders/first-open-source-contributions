@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Contributors
  - [Btrust Builders](https://github.com/btrust-builders)
  - [SharonMurugi](https://github.com/SharonMurugi)
@@ -118,4 +119,5 @@
  - [Habtaamu Tekle](https://github.com/haftu-tekle)
    [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
 - [Khairil](https://github.com/kaizeenn)
+ - [abel bimrew](https://github.com/abiwolflearn-prog))
 
