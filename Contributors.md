@@ -117,5 +117,5 @@
  - [Kidus Haile](https://github.com/kidus1219)
  - [Habtaamu Tekle](https://github.com/haftu-tekle)
    [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
-- [Khairil](https://github.com/kaizeenn)
-
+ - [Khairil](https://github.com/kaizeenn)
+ - [Hanif Olayiwola](https://github.com/TheNonFungibleHuman)
