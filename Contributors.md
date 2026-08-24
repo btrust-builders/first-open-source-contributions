@@ -87,7 +87,7 @@
  - [Mary Wangui](https://github.com/Zeegaths)
  - [Ian Ochieng] (https://github.com/iochieng1)
  - [Shuiab Olurode](https://github.com/OShuaib)
- - [Favor Charles Owuor🇰🇪](https://github.com/f18charles)
+ - [Mary Martha](https://github.com/Martha265)
  - [Winnie Gitau](https://github.com/b-l-u-e)
  - [Fidel Otieno](https://github.com/Fideltodayy)
  - [Bethwel Kiplagat](https://github.com/bethwel3001)
