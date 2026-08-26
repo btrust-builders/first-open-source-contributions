@@ -94,6 +94,7 @@
  - [Mercy Isaac](https://github.com/Mercy435)
  - [Austine Zeze](https://github.com/Austinezeze7)
  - [Umar Adamu](https://github.com/Cyber-Lord)
+   [Fidele Ndihokubwayo](https://github.com/Fidele012)
  - [LucyKamau](https://github.com/650DataNerd)
  - [Cebo Makeleni](https://github.com/cebo-dlalagroup)
  - [bagwells](https://github.com/bagwells)
