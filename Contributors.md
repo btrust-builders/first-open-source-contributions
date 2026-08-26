@@ -69,7 +69,7 @@
 * [Ndikumana Idris 🇧🇮](https://github.com/ndikuma)
 -[Nole Mohammed](https://github.com/Nolvvd)
 * [MercyMbao](https://github.com/mercie-ux)
-* \[MUGISHA Alain Paisible] https://github.com/map-boy
+* [MUGISHA Alain Paisible](https://github.com/map-boy)
 * [GladysAcaa](https://github.com/gladysacaa/)
 * [Richard Ochola](https://github.com/ochola-rich)
 * [DypheChauke](https://github.com/Degrandiloquent)
