@@ -93,6 +93,7 @@
  - [Eden Sahlie](https://github.com/Eden1916)
  - [Mary Wangui](https://github.com/Zeegaths)
  - [Ian Ochieng] (https://github.com/iochieng1)
+ [Ineza Yves Delvo](https://github.com/Dervaux-dev/)
  - [Shuiab Olurode](https://github.com/OShuaib)
  - [Favor Charles Owuor🇰🇪](https://github.com/f18charles)
  - [Winnie Gitau](https://github.com/b-l-u-e)
