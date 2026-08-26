@@ -4,6 +4,7 @@
  - [SharonMurugi](https://github.com/SharonMurugi)
  - [Andiswa Ndzimande](https://github.com/AndiswaNdzimande)
  - [Grace Ujah](https://github.com/Grace-Ujah)
+ - [IZABAYO Eloi](https://github.com/ELOI-CODE1)
  - [kc-clintone](https://github.com/kc-clintone)
  - [Ayokunle Akinsiku](https://github.com/AmosOO7)
  - [AdamuAbba](https://github.com/AdamuAbba)
