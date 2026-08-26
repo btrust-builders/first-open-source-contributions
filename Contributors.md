@@ -2,6 +2,7 @@
  - [Btrust Builders](https://github.com/btrust-builders)
  - [Hanamariam Mesfin Brhanemeskel 🇪🇹](https://github.com/Hannah-Art-dot)
  - [SharonMurugi](https://github.com/SharonMurugi)
+ - [MUCYUNEJE HIRWA Arsene](https://github.com/mucyuneje)
  - [Andiswa Ndzimande](https://github.com/AndiswaNdzimande)
  - [Grace Ujah](https://github.com/Grace-Ujah)
  - [kc-clintone](https://github.com/kc-clintone)
