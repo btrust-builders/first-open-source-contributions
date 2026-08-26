@@ -119,4 +119,5 @@
  - [Habtaamu Tekle](https://github.com/haftu-tekle)
    [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
 - [Khairil](https://github.com/kaizeenn)
+- [Mike2Sleek](https://github.com/ChidiebereMichael18)
 
