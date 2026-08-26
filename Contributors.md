@@ -7,6 +7,7 @@
  - [kc-clintone](https://github.com/kc-clintone)
  - [Ayokunle Akinsiku](https://github.com/AmosOO7)
  - [AdamuAbba](https://github.com/AdamuAbba)
+ - [Assia Nezerwa](https://github.com/assianezerwa04)
  - [Mercy Moraa](https://github.com/Moraa021)
  - [Sumeya Hassen 🇪🇹 ](https://github.com/sumeyahassen)
  - [Benjamin Koimett 🇰🇪](https://github.com/bkoimett)
