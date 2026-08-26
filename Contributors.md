@@ -84,6 +84,7 @@
  - [Abdulsalam Mohammed](https://github.com/devabdulsalam)
  - [Uyanda Sibiya](https://github.com/UyandaSibiya)
  - [Ifeanyichukwu Christian Njoku](https://github.com/christify30)
+ - [Gad NiYOGiSUBiZO 🇷🇼](https://github.com/niyogado)
  - [Yussif Muniru 🇬🇭](https://github.com/Muniru0)
  - [Haji Ismael 🇰🇪](https://github.com/hajisml)
  - [NonsoAmadi](https://github.com/NonsoAmadi10)
