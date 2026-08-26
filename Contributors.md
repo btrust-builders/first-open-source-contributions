@@ -32,6 +32,7 @@
  - [Robert Wairi](https://github.com/wairewaire)
  - [Tinkouree Bibi Shania](https://github.com/shania-prin)
  - [Neo Legodi](https://github.com/Neoo-8)
+ [Joshua](https://github.com/Joshua)
  - [Stephen Jarso](https://github.com/StephenJarso)
  - [rrouwelng](https://github.com/rouwel)
  - [Evans Juma](https://github.com/eojuma)
