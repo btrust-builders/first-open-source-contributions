@@ -6,6 +6,7 @@
  - [Grace Ujah](https://github.com/Grace-Ujah)
  - [kc-clintone](https://github.com/kc-clintone)
  - [Ayokunle Akinsiku](https://github.com/AmosOO7)
+ - [Ajang Korenilo](https://github.com/ajang20)
  - [AdamuAbba](https://github.com/AdamuAbba)
  - [Mercy Moraa](https://github.com/Moraa021)
  - [Sumeya Hassen 🇪🇹 ](https://github.com/sumeyahassen)
