@@ -13,6 +13,7 @@
  - [Sinhawe Etefa](https://github.com/byeolbae17-debug)
  - [shammah Agwor](https://github.com/zealsham)
  - [altradits](https://github.com/altradits)
+ - [AYIRWANDA Adolphe](https://github.com/DrSense)
  - [Victoria Odalo](https://github.com/OdaloV)
  - [Quinton Juma](https://github.com/quinton-8)
  - [Amran Abduselam](https://github.com/amranabduselamamran-ux)
