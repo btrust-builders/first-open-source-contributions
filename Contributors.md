@@ -26,6 +26,7 @@
  - [frihk](https://github.com/frihk)
  - [CasperDkk](https://github.com/CasperDkk)
  - [obarelawrence-builder](https://github.com/obarelawrence-builder)
+ - [Innocencia Ndembera] (https://github.com/sheC0der)
  - [Walter Onyango](https://github.com/walterhrad-pixel)
  - [tvpeter](https://github.com/tvpeter)
  - [mohammedkasim](https://github.com/mokasimumer)
