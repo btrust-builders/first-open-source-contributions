@@ -14,7 +14,6 @@
 <kbd><img title="Rwanda" alt="Rwanda" src="https://cdn.statically.io/gh/hjnilsson/country-flags@master/svg/rw.svg" width="22"></kbd>
 
 <kbd><img title="Ethiopia" alt="Ethiopia" src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/ethiopia-flag-icon.png" width="22"></kbd>
-<kbd>
 
 # First Open Source Contributions
 
