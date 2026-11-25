@@ -9,6 +9,7 @@
 - [Grace Ujah](https://github.com/Grace-Ujah)
 - [IZABAYO Eloi](https://github.com/ELOI-CODE1)
 - [kc-clintone](https://github.com/kc-clintone)
+- [Eric Moyo](https://github.com/moyoeric270-byte)
 - [Ayokunle Akinsiku](https://github.com/AmosOO7)
 - [Ajang Korenilo](https://github.com/ajang20)
 - [AdamuAbba](https://github.com/AdamuAbba)
