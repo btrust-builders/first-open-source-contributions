@@ -59,6 +59,7 @@
 - [BusayoDada](https://github.com/busayo-OD)
 - [Luiz Were](https://github.com/luiwere)
 - [Silas Lelei](https://github.com/Silas-Labs)
+_ [Esther Thyolera](https://github.com/starthyolera-ai)
 - [Cindy Tsetse](https://github.com/tsetseC)
 - [Michael Nyawade](https://github.com/Michael-Nyawade)
 - [Herman Alagaw](https://github.com/hermangetaneh)
