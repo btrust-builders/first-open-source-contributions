@@ -103,7 +103,7 @@
 - [Fidel Otieno](https://github.com/Fideltodayy)
 - [Bethwel Kiplagat](https://github.com/bethwel3001)
 - [Mercy Isaac](https://github.com/Mercy435)
-- [wisdom malata](https://github.com/aqua-slovic)
+- [aqua slovic](https://github.com/aqua-slovic)
 - [Austine Zeze](https://github.com/Austinezeze7)
 - [Umar Adamu](https://github.com/Cyber-Lord)
 - [Fidele Ndihokubwayo](https://github.com/Fidele012)
