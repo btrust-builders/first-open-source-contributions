@@ -63,6 +63,7 @@
 - [Michael Nyawade](https://github.com/Michael-Nyawade)
 - [Herman Alagaw](https://github.com/hermangetaneh)
 - [Kabba Joseph Timothy](https://github.com/josephkabba)
+- [Ulemu Nyangu](https://github.com/Ulemu96)
 - [Emmanuel Okeke](https://github.com/mimiprosper)
 - [Olaotse Sehularo](https://github.com/Olaotse24)
 - [heyolaniran](https://github.com/heyolaniran)
