@@ -29,6 +29,7 @@
 - [CasperDkk](https://github.com/CasperDkk)
 - [obarelawrence-builder](https://github.com/obarelawrence-builder)
 - [Innocencia Ndembera](https://github.com/sheC0der)
+- [Mathews Soko](https://github.com/mathewssoko76-ui)
 - [Walter Onyango](https://github.com/walterhrad-pixel)
 - [tvpeter](https://github.com/tvpeter)
 - [mohammedkasim](https://github.com/mokasimumer)
