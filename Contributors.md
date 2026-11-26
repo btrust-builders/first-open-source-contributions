@@ -1,5 +1,6 @@
 # Contributors
 - [Btrust Builders](https://github.com/btrust-builders)
+- [Joshua Padzuwa, Lecto Holdings co.] (https://github.com/Padzuwa/first-open-source-contributions)
 - [Hanamariam Mesfin Brhanemeskel 🇪🇹](https://github.com/Hannah-Art-dot)
 - [Francesca Iseke](https://github.com/francescaisek)
 - [Cyubahiro Bienvenue](https://github.com/bienvenuecyubahiro33)
