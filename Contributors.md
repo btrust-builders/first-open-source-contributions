@@ -136,3 +136,4 @@
 - [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
 - [Khairil](https://github.com/kaizeenn)
 - [Mike2Sleek](https://github.com/ChidiebereMichael18)
+- [farook](https://github.com/farook-salim)
