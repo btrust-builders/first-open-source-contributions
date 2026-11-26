@@ -15,6 +15,8 @@
 
 <kbd><img title="Ethiopia" alt="Ethiopia" src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/ethiopia-flag-icon.png" width="22"></kbd>
 
+<kbd><img title="Malawi" alt="Ethiopia" src="https://uxwing.com/wp-content/themes/uxwing/download/flags-landmarks/malawi-flag-icon.png" width="22"></kbd>
+
 # First Open Source Contributions
 
 This project aims to simplify and guide the way beginners make their first open source contribution. If you are looking to make your first open source contribution, follow the steps below.

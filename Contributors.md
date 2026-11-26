@@ -134,3 +134,4 @@
 - [Nakubulwa Shadia](https://github.com/Nakubulwashadia)
 - [Khairil](https://github.com/kaizeenn)
 - [Mike2Sleek](https://github.com/ChidiebereMichael18)
+- [Kennedy Phiri](https://github.com/Kennie265)
