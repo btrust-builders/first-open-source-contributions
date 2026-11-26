@@ -15,6 +15,7 @@
 - [Mercy Moraa](https://github.com/Moraa021)
 - [mucyo herve](https://github.com/mucyo)
 - [Sumeya Hassen 🇪🇹 ](https://github.com/sumeyahassen)
+-[Thierry Jayden](https://github.com/thierryjayden-alt)
 - [Benjamin Koimett 🇰🇪](https://github.com/bkoimett)
 - [Sinhawe Etefa](https://github.com/byeolbae17-debug)
 - [shammah Agwor](https://github.com/zealsham)
