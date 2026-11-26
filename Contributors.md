@@ -34,6 +34,7 @@
 - [mohammedkasim](https://github.com/mokasimumer)
 - [Robert Wairi](https://github.com/wairewaire)
 - [Tinkouree Bibi Shania](https://github.com/shania-prin)
+- [Holiness Mgunda](https://github.com/martinshollyn-commits)
 - [Neo Legodi](https://github.com/Neoo-8)
 - [Joshua](https://github.com/Joshua)
 - [Stephen Jarso](https://github.com/StephenJarso)
