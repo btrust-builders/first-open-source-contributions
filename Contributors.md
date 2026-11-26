@@ -58,6 +58,7 @@
 - [Maazi Emeka](https://github.com/maaziEmeka)
 - [BusayoDada](https://github.com/busayo-OD)
 - [Luiz Were](https://github.com/luiwere)
+- [Wonderful Kingstone](https://github.com/malemiaw-jpg)
 - [Silas Lelei](https://github.com/Silas-Labs)
 - [Cindy Tsetse](https://github.com/tsetseC)
 - [Michael Nyawade](https://github.com/Michael-Nyawade)
